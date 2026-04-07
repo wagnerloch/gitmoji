@@ -600,6 +600,14 @@
       "description": "Code that adds backwards compatibility.",
       "name": "t-rex",
       "semver": null
+    },
+    {
+      "emoji": "🇧🇷",
+      "entity": "&#x2708;",
+      "code": ":brazil:",
+      "description": "Best code ever.",
+      "name": "brazil",
+      "semver": null
     }
   ]
 }
